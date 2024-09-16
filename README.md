@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/saag7/saag7/blob/main/ino%20(1).png" align="center" style="width: 100%" />
+<img src="https://github.com/saag7/saag7/blob/main/2.png" align="center" style="width: 100%" />
 </div>  
   
 
