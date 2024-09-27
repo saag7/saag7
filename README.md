@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Salomon, an AI/Machine Learning Engineer</div>  
+### <div align="center">I'm Salomon, a Full Stack Web Dev and Machine Learning Engineer</div>  
   
 
 - **🔭 I’m currently working on [eCommerce-Price-Tracker](https://github.com/saag7/eCommerce-Price-Tracker)**  
