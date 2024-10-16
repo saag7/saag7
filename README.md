@@ -6,9 +6,6 @@
 ### <div align="center">I'm Salomon, a Machine Learning Engineer</div>  
   
 <!--
-This is a
-multiline comment
-
 - **🔭 I’m currently working on [eCommerce-Price-Tracker](https://github.com/saag7/eCommerce-Price-Tracker)**  
   -->
 
