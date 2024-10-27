@@ -1,7 +1,8 @@
+<!--
 <div align="center">
 <img src="https://github.com/saag7/saag7/blob/main/2.png" align="center" style="width: 100%" />
 </div>  
-  
+   -->
 
 ### <div align="center">I'm Salomon, a Machine Learning Engineer</div>  
   
@@ -20,7 +21,7 @@
 
 <br/>  
 
-
+<!--
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -61,7 +62,7 @@
 </td></tr></table>  
 
 <br/>  
-
+ -->
 
 ## Connect with me  
 <div align="center">
@@ -83,13 +84,13 @@
 
 <br/>  
 
-
+<!--
 ## Recent Blog Posts  
 **<div align="center">Thank you for passing by. Have a great Day !</div>**  
   
 
 <br/>  
-
+ -->
   
 
 <br/>  
