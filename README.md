@@ -17,7 +17,7 @@
 - ❓ Ask me about anything related to Machine Learning stack and related technologies  
   
 
-- ⚡ Fun fact: I like to learn new valuable things everyday  
+<!-- - ⚡ Fun fact: I like to learn new valuable things everyday    -->
   
 
 <br/>  
