@@ -4,7 +4,8 @@
 </div>  
    -->
 
-### <div align="center">I'm Salomon, a Machine Learning Engineer</div>  
+
+### <div align="center">Welcome, I'm Salomon, a Machine Learning Engineer</div>  
   
 <!--
 - **🔭 I’m currently working on [eCommerce-Price-Tracker](https://github.com/saag7/eCommerce-Price-Tracker)**  
@@ -72,7 +73,8 @@
 </a>  -->
 <a href="https://linkedin.com/in/saag" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a target="_blank" href="https://twitter.com/kosalomag" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 </div>  
   
 
