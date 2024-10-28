@@ -11,6 +11,7 @@
 <p align="center">
 <a href="https://huggingface.co/{username}"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-blue" width="210" height="30" alt="Hugging Face"></a>
 </p>
+[![Docker](https://img.shields.io/badge/Docker-20.10.7-blue)](https://hub.docker.com/r/{username}/{image_name})
  -->
    <!--
 - **🔭 I’m currently working on [eCommerce-Price-Tracker](https://github.com/saag7/eCommerce-Price-Tracker)**  
