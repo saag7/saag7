@@ -5,17 +5,24 @@
    -->
 
 
-### <div align="center">Welcome, I'm Salomon, a Machine Learning Engineer</div>  
-  
-<!--
+
+### <div align="center">Welcome, I'm Salomon, a Machine Learning Engineer </div>  
+  <!--
+<p align="center">
+<a href="https://huggingface.co/{username}"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-blue" width="210" height="30" alt="Hugging Face"></a>
+</p>
+ -->
+   <!--
 - **🔭 I’m currently working on [eCommerce-Price-Tracker](https://github.com/saag7/eCommerce-Price-Tracker)**  
   -->
 
-- **🌱 I’m currently learning how to optimize Ai models on mobile phone**  
-  
-
+   
+ **<div align="center">I’m currently learning how to optimize Ai models on mobile phone** </div>
+ 
+<!--
+[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/t7pro/{model_name})
 - ❓ Ask me about anything related to Machine Learning stack and related technologies  
-  
+   -->
 
 <!-- - ⚡ Fun fact: I like to learn new valuable things everyday    -->
   
@@ -64,26 +71,28 @@
 
 <br/>  
  -->
-
+<!--
 ## Connect with me  
 <div align="center">
 
   <!--<a href="https://github.com/saag7" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  -->
+<!--
 <a href="https://linkedin.com/in/saag" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a target="_blank" href="https://twitter.com/kosalomag" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 </div>  
-  
+  -->
 
 <br/>  
 
+<div align="center">
 
-## Github Stats  
+   ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saag7&hide_border=true&layout=compact" align="center" /></div>  
-
+</div>  
 <br/>  
 
 <!--
