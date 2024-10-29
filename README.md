@@ -21,7 +21,7 @@
  **<div align="center">I’m currently learning how to optimize Ai models on mobile phone** </div>
  
 <!--
-[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/t7pro/{model_name})
+
 - ❓ Ask me about anything related to Machine Learning stack and related technologies  
    -->
 
@@ -29,43 +29,70 @@
   
 
 <br/>  
-
 <!--
-## My Skill Set  
+<div align="center">
+
+   ## Completed Projects  
 <table><tr><td valign="top" width="33%">
 
+</div>
 
 
-### Frameworks  
-<div align="center">  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+
+<div align="center"> 
+   
+   ### On Huggingface 
+   
+   <a href="https://huggingface.co/{username}"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-My%20Custom%20Text-blue" width="250" height="28" alt="Hugging Face"></a>
+     <a href="https://huggingface.co/{username}"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-My%20Custom%20Text-blue" width="250" height="28" alt="Hugging Face"></a>
+       <a href="https://huggingface.co/{username}"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-My%20Custom%20Text-blue" width="250" height="28" alt="Hugging Face"></a>
+         <a href="https://huggingface.co/{username}"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-My%20Custom%20Text-blue" width="250" height="28" alt="Hugging Face"></a>
+   
 </div>
 
 </td><td valign="top" width="33%">
 
 
+<div align="center">
+   
+###           Dockerized 
 
-###           Backend & Frontend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+
+<a href="https://hub.docker.com/r/{username}/{image_name}" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-My%20Custom%20Text-blue" width="200" height="30" alt="Docker">
+</a>
+<a href="https://hub.docker.com/r/{username}/{image_name}" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-My%20Custom%20Text-blue" width="200" height="30" alt="Docker">
+</a>
+<a href="https://hub.docker.com/r/{username}/{image_name}" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-My%20Custom%20Text-blue" width="200" height="30" alt="Docker">
+</a>
+<a href="https://hub.docker.com/r/{username}/{image_name}" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-My%20Custom%20Text-blue" width="200" height="30" alt="Docker">
+</a>
 </div>
 
 </td><td valign="top" width="33%">
 
 
-
-### DevOps  
+<div align="center">
+   
+### Watch Demo  
 <div align="center">  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+ 
+   
+<a href="https://huggingface.co/{username}" target="_blank" title="Hugging Face Model">
+  <img src="https://img.shields.io/badge/Demo-🚀%20My%20Custom%20Demo%20Text-blue" width="228" height="30" alt="Demo">
+</a>
+<a href="https://huggingface.co/{username}" target="_blank" title="Hugging Face Model">
+  <img src="https://img.shields.io/badge/Demo-🚀%20My%20Custom%20Demo%20Text-blue" width="228" height="30" alt="Demo">
+</a>
+<a href="https://huggingface.co/{username}" target="_blank" title="Hugging Face Model">
+  <img src="https://img.shields.io/badge/Demo-🚀%20My%20Custom%20Demo%20Text-blue" width="228" height="30" alt="Demo">
+</a>
+<a href="https://huggingface.co/{username}" target="_blank" title="Hugging Face Model">
+  <img src="https://img.shields.io/badge/Demo-🚀%20My%20Custom%20Demo%20Text-blue" width="228" height="30" alt="Demo">
+</a>
 </div>
 
 </td></tr></table>  
