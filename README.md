@@ -6,6 +6,13 @@
 
 
 ### <div align="center">Welcome, I'm Salomon, a Machine Learning Engineer </div>  
+
+ **<div align="center">I’m currently learning how to optimize Ai models on mobile phone** </div>
+
+<div align="center">
+
+## 🏆 GitHub Profile Trophy
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saag7&margin-w=2&margin-h=2&row=2&column=3&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="saag7" /></a> </p>
   <!--
 <p align="center">
 <a href="https://huggingface.co/{username}"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-blue" width="210" height="30" alt="Hugging Face"></a>
@@ -17,17 +24,10 @@
   -->
 
    
- **<div align="center">I’m currently learning how to optimize Ai models on mobile phone** </div>
- 
-<!--
-
-- ❓ Ask me about anything related to Machine Learning stack and related technologies  
-   -->
 
 <!-- - ⚡ Fun fact: I like to learn new valuable things everyday    -->
   
-
-<br/>  
+ 
 <!--
 <div align="center">
 
@@ -113,7 +113,7 @@
 </div>  
   -->
 
-<br/>  
+
 
 <div align="center">
 
@@ -122,15 +122,7 @@
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saag7&show_icons=true&theme=github_dark&count_private=true"align="center" /></div>  -->
 
 </div>  
-<br/>  
 
-<!--
-## Recent Blog Posts  
-**<div align="center">Thank you for passing by. Have a great Day !</div>**  
-  
-
-<br/>  
- -->
   
 
 <br/>  
@@ -138,9 +130,10 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=saag7&&style=flat-square" align="center" />
 </div>  
-  
+  <br/> 
+ <div align="center">Thank you for passing by. Have a great Day !</div>
 
-<br/>  
+ 
 
 
 <br />
