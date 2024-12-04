@@ -117,7 +117,7 @@
 
 <div align="center">
 
-   ## GitHub Stats  
+   ## ⚡ GitHub Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saag7&hide_border=true&layout=compact&theme=github_dark"align="center" /></div>
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saag7&show_icons=true&theme=github_dark&count_private=true"align="center" /></div>  -->
 
