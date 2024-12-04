@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## 🏆 GitHub Profile Trophies
+## 🏆 GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saag7&margin-w=2&margin-h=2&row=2&column=3&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="saag7" /></a> </p>
   <!--
 <p align="center">
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-   ## Github Stats  
+   ## GitHub Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saag7&hide_border=true&layout=compact&theme=github_dark"align="center" /></div>
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=saag7&show_icons=true&theme=github_dark&count_private=true"align="center" /></div>  -->
 
