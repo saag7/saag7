@@ -5,7 +5,7 @@
    -->
 
 
-### <div align="center">Welcome, I'm Salomon, a Machine Learning Engineer </div>  
+### <div align="center">Welcome</div>  
 
  **<div align="center">I’m currently learning how to optimize Ai models for mobile phones** </div>
 
