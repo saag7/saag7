@@ -25,6 +25,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_licenses: yes
           config_timezone: Europe/Paris
           config_order: base.header, isocalendar, languages, stars
 
