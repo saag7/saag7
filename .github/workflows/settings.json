@@ -3,3 +3,8 @@ metrics.run.tempdir
 metrics.run.git
 metrics.npm.optional.d3
 metrics.run.puppeteer.scrapping
+metrics.cpu.overuse
+metrics.run.tempdir
+metrics.run.git
+metrics.run.licensed
+metrics.run.user.cmd
