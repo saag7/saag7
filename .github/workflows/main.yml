@@ -25,10 +25,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_licenses_legal: no
-          plugin_licenses_ratio: yes
           config_timezone: Europe/Paris
           config_order: base.header, isocalendar, languages, stars
 
