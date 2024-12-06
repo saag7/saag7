@@ -21,9 +21,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_stars: yes
-          plugin_notable: yes
-          plugin_notable_from: all
-          config_order: base.header, isocalendar, contributions, languages, stars
+          config_order: base.header, isocalendar, languages, stars
 
 
           
