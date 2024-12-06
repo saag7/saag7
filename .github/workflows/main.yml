@@ -21,6 +21,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_stars: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Europe/Paris
           config_order: base.header, isocalendar, languages, stars
 
 
